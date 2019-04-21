@@ -1,0 +1,1 @@
+# Patatap-Clone is a clone of the Patatap application (https://patatap.com) where each key-press corresponds to a sound that is played using Howler.js(a JavaScript sound library) and animation using Paper.js (a vector graphing scripting framework).
